@@ -15,3 +15,28 @@
             </div>
           </div>
      </header>
+
+
+
+
+
+
+
+
+
+     <section class="my-24 flex flex-col-reverse lg:flex-row gap-8 bg-gradient-to-r from-[#FF8938] to-[#F00] rounded-xl md:px-16 md:py-24 px-12 py-14">
+        <div class="md:pr-32 flex items-center gap-36">
+
+            <div class="space-y-6 pl-10">
+               <h2 class="md:text-5xl text-2xl  font-extrabold ">Meet Our Super <br> Clients</h2>
+               <p>There are many variations of passages of Lorem Ipsum <br> available, but the majority have suffered alteration in some <br> form, by injected humour, or randomised words which don't <br> look even slightly believable. </p>
+               <button class="btn text-orange-600 md:px-5 md:py-2 bg-white md:text-2xl font-bold hover:bg-transparent hover:text-white">Show All</button>
+            </div>
+   
+            <div class="">
+                <img src="img/f4a9dd28-7d1d-4cbb-a3bb-5a5d729af075.jpeg" alt="super-client"
+                >
+            </div>
+
+        </div>  
+</section>
